@@ -1,8 +1,0 @@
-[
-{
-  "directory": "/Users/dchoo/src/me/os/build",
-  "command": "/Users/dchoo/opt/cross/bin/x86_64-elf-g++  -I/Users/dchoo/src/me/os/include -std=gnu++20 -std=gnu++20 -Wall -Wextra -ffreestanding -fno-stack-protector -fno-stack-check -fPIE -m64 -march=x86-64 -mno-80387 -mno-mmx -mno-sse -mno-sse2 -mno-red-zone -fno-rtti -fno-exceptions -MMD -MP -o CMakeFiles/os.dir/kernel/main.cpp.obj -c /Users/dchoo/src/me/os/kernel/main.cpp",
-  "file": "/Users/dchoo/src/me/os/kernel/main.cpp",
-  "output": "CMakeFiles/os.dir/kernel/main.cpp.obj"
-}
-]
